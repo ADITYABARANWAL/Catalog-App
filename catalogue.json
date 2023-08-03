@@ -1,0 +1,68 @@
+{
+    "products": [
+        {
+            "id": "Codepur001",
+            "name": "Iphone 12 pro",
+            "desc": "Apple Iphone 12th generation",
+            "price": 999,
+            "color": "#33505a",
+            "image":"https://img3.gadgetsnow.com/gd/images/products/additional/large/G390822_View_1/mobiles/smartphones/apple-iphone-14-pro-128-gb-gold-6-gb-ram-.jpg "
+        },
+        {
+            "id": "Codepur002",
+            "name": "pixel 5",
+            "desc": "Google Pixel 5th generation",
+            "price": 699,
+            "color": "#00FF00",
+            "image":"https://img3.gadgetsnow.com/gd/images/products/additional/large/G390822_View_1/mobiles/smartphones/apple-iphone-14-pro-128-gb-gold-6-gb-ram-.jpg "
+        },
+        {
+        "id": "Codepur003",
+            "name": "M1 macbook pro",
+            "desc": "Apple Macbook air with apple silicon",
+            "price": 1099,
+            "color": "#e0bfae",
+            "image":""
+        },
+        {
+            "id": "Codepur004",
+            "name": "Samsumg S1 pro",
+            "desc": "Samsung new s series phone",
+            "price": 599,
+            "color": "#544ee4",
+            "image":"https://img3.gadgetsnow.com/gd/images/products/additional/large/G390822_View_1/mobiles/smartphones/apple-iphone-14-pro-128-gb-gold-6-gb-ram-.jpg " 
+        },
+        {
+            "id": "Codepur005",
+            "name": "Airpods Pro",
+            "desc": "Apple Airpods pro 1st generation",
+            "price": 299,
+            "color": "#e3e4e9",
+            "image":"https://img3.gadgetsnow.com/gd/images/products/additional/large/G390822_View_1/mobiles/smartphones/apple-iphone-14-pro-128-gb-gold-6-gb-ram-.jpg " 
+        },
+        {
+            "id": "Codepur006",
+            "name": "Ipad pro 2020",
+            "desc": "Apple Ipad pro 2020 edition ",
+            "price": 799,
+            "color": "#wf73984",
+            "image":"https://img3.gadgetsnow.com/gd/images/products/additional/large/G390822_View_1/mobiles/smartphones/apple-iphone-14-pro-128-gb-gold-6-gb-ram-.jpg " 
+        },
+        {
+            "id": "Codepur007",
+            "name": "Samsumg S21 Ultra",
+            "desc": "Samsung Galaxy Ultra S21",
+            "price": 1299,
+            "color": "#1c1c1c",
+            "image":"https://img3.gadgetsnow.com/gd/images/products/additional/large/G390822_View_1/mobiles/smartphones/apple-iphone-14-pro-128-gb-gold-6-gb-ram-.jpg " 
+        },
+        {
+            "id": "Codepur008",
+            "name": "Galaxy S21",
+            "desc": "Samsung S21 2021 edition",
+            "price": 899,
+            "color": "#7c95eb",
+            "image":"https://img3.gadgetsnow.com/gd/images/products/additional/large/G390822_View_1/mobiles/smartphones/apple-iphone-14-pro-128-gb-gold-6-gb-ram-.jpg " 
+        }
+        ]
+}
